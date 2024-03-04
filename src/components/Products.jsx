@@ -22,7 +22,7 @@ import cp2 from "../assets/img/products/cp2.jpg"
 
 import p11 from "../assets/img/products/p11.jpg"
 import p12 from "../assets/img/products/p12.jpg"
-import p14 from "../assets/img/products/p14.jpg"
+import p15 from "../assets/img/products/p15.jpg"
 
 import p1 from "../assets/img/products/p1.jpg"
 import p24 from "../assets/img/products/p24.jpg"
@@ -209,7 +209,7 @@ description={
     </div>
   }/>
   <BlogCard 
-  img={p14} 
+  img={p15} 
   headlines={<div>Diabetic Footwear <br/> (MCR Material)</div>}  
   
   description={
