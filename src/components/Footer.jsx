@@ -64,6 +64,17 @@ const Footer = () => {
               duration={500}
               className="transition-all cursor-pointer hover:text-hoverColor"
             >
+             <b>Landline:</b> 0462-4802211
+
+
+            </Link>
+            <Link
+              to="/"
+              spy={true}
+              smooth={true}
+              duration={500}
+              className="transition-all cursor-pointer hover:text-hoverColor"
+            >
              <b>Email:</b> jsjorthoaid@gmail.com
             </Link>
           
@@ -74,7 +85,7 @@ const Footer = () => {
           <nav className="flex flex-col gap-2 ">
             <Link to="/" spy={true} smooth={true} duration={500}>
            <b>Address1:</b>  No.61, Iyappan Nagar, NGO- A Colony, Tirunelveli – 627007 <br />
-<b>Address2:</b>No.155, Thiruvanandhapuram Road, Murugankurichi, Opp to Diocesan book store, Tirunelveli 
+<b>Address2:</b>Hotel SakunthalaInt, Nearest to Reliance Market Vannarapettai,Tiruneveli-627003 
             </Link>
           
           </nav>

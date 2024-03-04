@@ -17,6 +17,18 @@ const Contact = ({ closeForm }) => {
              <b>Phone: </b> 9366720130,9487458538
 
 
+
+            </p>
+          </div>
+          <div className="flex flex-col">
+          <p
+            
+              className="transition-all cursor-pointer hover:text-hoverColor"
+            >
+             <b>Landline: </b> 0462-4802211
+             
+
+
             </p>
           </div>
           <div className="flex flex-col ">
@@ -33,7 +45,7 @@ const Contact = ({ closeForm }) => {
           <div className="flex flex-col">
             <p>
             <b>Address 1: </b>No.61, Iyappan Nagar, NGO- A Colony, Tirunelveli – 627007 <br /> <br/>
-            <b>Address 2: </b> No.155, Thiruvanandhapuram Road, Murugankurichi, Opp to Diocesan book store, Tirunelveli 
+            <b>Address 2: </b> Hotel SakuntalaInt, Nearest to Reliance Market Vannarapettai,Tiruneveli-627003 
             </p>
 
           </div>
