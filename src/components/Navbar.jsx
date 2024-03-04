@@ -137,7 +137,7 @@ const Navbar = () => {
           >
             About Us
           </Link>
-          <Link
+          {/* <Link
             to="services"
             spy={true}
             smooth={true}
@@ -146,18 +146,18 @@ const Navbar = () => {
             onClick={closeMenu}
           >
             Services
-          </Link>
+          </Link> */}
           <Link
-            to="doctors"
+            to="products"
             spy={true}
             smooth={true}
             duration={500}
             className="transition-all cursor-pointer hover:text-hoverColor"
             onClick={closeMenu}
           >
-            Doctors
+            Products
           </Link>
-          <Link
+          {/* <Link
             to="blog"
             spy={true}
             smooth={true}
@@ -166,7 +166,7 @@ const Navbar = () => {
             onClick={closeMenu}
           >
             Blog
-          </Link>
+          </Link> */}
 
           <div className=" lg:hidden">
             <button
