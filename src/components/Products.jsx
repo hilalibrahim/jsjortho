@@ -17,6 +17,7 @@ import p27 from "../assets/img/products/p27.jpg"
 import p29 from "../assets/img/products/p29.jfif"
 import cp1 from "../assets/img/products/cp1.jpg"
 import cp3 from "../assets/img/products/cp3.jpg"
+import m1 from "../assets/img/products/m1.jpeg"
 
 import cp2 from "../assets/img/products/cp2.jpg"
 
@@ -77,6 +78,10 @@ The PrecisionGrasp Elite restores dexterity with advanced technology, providing 
       </div>
       <div className="my-2 ">
         <div className="flex flex-wrap justify-center gap-5 ">
+        <BlogCard img={m1} headlines="Wheel Chairs – Motorised " description="Smooth Maneuverability, Unmatched Comfort 
+we offer a smooth ride indoors or outdoors, combining easy navigation with durability for freedom of movement.
+
+"/>
           <BlogCard img={p20} headlines="Wheel Chairs – Foldable " description="Smooth Maneuverability, Unmatched Comfort 
 we offer a smooth ride indoors or outdoors, combining easy navigation with durability for freedom of movement.
 

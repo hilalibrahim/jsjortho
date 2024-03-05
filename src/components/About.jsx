@@ -22,7 +22,7 @@ Compassionate Care: We approach our work with compassion, understanding the uniq
         </p>
       </div>
       <div className="w-full lg:w-3/4">
-        <img className="rounded-lg " src={img} alt="img" />
+        <img className="rounded-lg drop-shadow-xl" src={img} alt="img" />
       </div>
     </div>
   );
